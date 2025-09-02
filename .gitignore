@@ -1,0 +1,24 @@
+# Node
+node_modules/
+.next/
+.env*
+
+# Java
+*.class
+*.jar
+*.war
+*.iml
+/target/
+/.idea/
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Sensitive
+frontend/.env*
+backend/src/main/resources/application.properties
